@@ -1,11 +1,25 @@
-# Design Patterns in Python inspired by the book "Design Patterns: Elements of Reusable Object-Oriented Software by Gamma, Erich"
+<div align="center">
+  <a href="https://oliverbarreto.com">
+    <img src="https://www.oliverbarreto.com/images/site-logo.png" />
+  </a>
+</div>
+</br>
+</br>
+<div align="center">
+  <h1>Design Patterns in Python inspired by the book "Design Patterns: Elements of Reusable Object-Oriented Software by Gamma, Erich</h1>
+  <p>Code: designpatterns.python</p>
+  <a href="https://github.com/oliverbarreto/designpatterns.python">https://github.com/oliverbarreto/designpatterns.python</a>
+  <p>Resources:</p>
+  <a href="https://www.youtube.com/playlist?list=PL5C9QKu8AsmVRvgzeYTepoGgH5U9-XLc4">https://www.youtube.com/playlist?list=PL5C9QKu8AsmVRvgzeYTepoGgH5U9-XLc4</a>
+  </br>
+  </br>
+  <p>Created with ❤️ by Oliver Barreto</p>
+</div>
 
-Code: designpatterns.python
-[https://github.com/oliverbarreto/designpatterns.python](https://github.com/oliverbarreto/designpatterns.python)
+</br>
+</br>
 
-Resources:
-
-- [https://www.youtube.com/playlist?list=PL5C9QKu8AsmVRvgzeYTepoGgH5U9-XLc4](https://www.youtube.com/playlist?list=PL5C9QKu8AsmVRvgzeYTepoGgH5U9-XLc4)
+# Design Patterns in Python inspired by the book "Design Patterns: Elements of Reusable Object-Oriented Software by Gamma, Erich
 
 # Creational Design Patterns
 
