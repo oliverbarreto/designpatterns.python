@@ -8,8 +8,7 @@
 <div align="center">
   <h1>Design Patterns in Python inspired by the book "Design Patterns: Elements of Reusable Object-Oriented Software by Gamma, Erich</h1>
   </br>
-  <p>Code: designpatterns.python</p>
-  <a href="https://github.com/oliverbarreto/designpatterns.python">https://github.com/oliverbarreto/designpatterns.python</a>
+  <p>Code: <a href="https://github.com/oliverbarreto/designpatterns.python">https://github.com/oliverbarreto/designpatterns.python</a></p>
   </br>
   <p>Resources:</p>
   <a href="https://www.youtube.com/playlist?list=PL5C9QKu8AsmVRvgzeYTepoGgH5U9-XLc4">https://www.youtube.com/playlist?list=PL5C9QKu8AsmVRvgzeYTepoGgH5U9-XLc4</a>
