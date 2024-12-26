@@ -54,4 +54,12 @@ Applicability: Use the Builder pattern when:
 
 # Structural Design Patterns
 
+## Adapter
+
+## Facade
+
 # Behavioral Design Patterns
+
+## Strategy
+
+## Observer
