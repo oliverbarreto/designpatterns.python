@@ -43,6 +43,15 @@ Applicability: Use the Factory Method pattern when:
 - a class wants its subclasses to specify the objects it creates
 - classes delegate responsibility to one of several helper subclasses, and you want to localize the knowledge of which helper subclass is the delegate
 
+## Builder
+
+Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
+Applicability: Use the Builder pattern when:
+
+- the algorithm for creating a complex object should be independent of the parts that make up the object and how they're assembled
+- the construction process must allow different representations for the object that's constructed
+
 # Structural Design Patterns
 
 # Behavioral Design Patterns
